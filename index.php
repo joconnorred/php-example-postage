@@ -61,7 +61,7 @@
   <body>
     <div class='body_wrapper'>
       <h1> 
-        PHP Example Application for Ming 
+        This Is A PHP Example Application for Ming 
       </h1>
       
       <div class="api_key">
