@@ -61,7 +61,7 @@
   <body>
     <div class='body_wrapper'>
       <h1> 
-        PHP Example Application for Ming Poon 
+        PHP Example Application for Ming 
       </h1>
       
       <div class="api_key">
@@ -80,10 +80,10 @@
       
       <form method="post">
         <label> Subject
-          <input type="text" value="Hello {{name}}" name="subject"/>
+          <input type="text" value="Hello Ming" name="subject"/>
         </label>
         <label> To
-          <input type="text" value="me@example.com" name="email"/>
+          <input type="text" value="jennifer@example.com" name="email"/>
         </label>
         <label> Name
           <input type="text" value="Tester" name="variable"/>
