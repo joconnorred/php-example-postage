@@ -61,7 +61,7 @@
   <body>
     <div class='body_wrapper'>
       <h1> 
-        PHP Example Application for PostageApp
+        PHP Example Application for Ming Poon 
       </h1>
       
       <div class="api_key">
